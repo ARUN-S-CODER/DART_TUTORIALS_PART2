@@ -30,6 +30,6 @@ We welcome contributions! Please feel free to submit a pull request or open an i
 
 ## 🤝 Connect with Us
 
-If you have any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/ARUN-S-CODER/DART_TUTORIALS_PART2/issues) or connect with us on [LinkedIn](https://linkedin.com/in/arun s (b.tech)).
+If you have any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/ARUN-S-CODER/DART_TUTORIALS_PART2/issues) or connect with us on [LinkedIn](https://www.linkedin.com/in/arun-s-b-tech-b26515257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 Happy coding! 🎉
